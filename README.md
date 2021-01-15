@@ -4,3 +4,5 @@ git add
 git add .
 git commit -m "내용"
 git log
+git config --global user.email ""
+git config --global user.name ""
